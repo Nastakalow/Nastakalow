@@ -8,7 +8,7 @@
 
 <br>
 
-<p>CS graduate and front-end developer focusing on JavaScript. With well-documented code, I eagerly to
+<p align="center">CS graduate and front-end developer focusing on JavaScript. With well-documented code, I eagerly to
 tackle problems and find ways to maximize user efficiency. After study with front - end development I
 ready to apply my passion for coding to a talented engineering team to develop quality solutions.
 </p>
@@ -17,21 +17,18 @@ ready to apply my passion for coding to a talented engineering team to develop q
 
 <div align="center">
   
-  
   <h3>Connect with me:</h3>
 
-  <a href="https://az.linkedin.com/in/ramazan-nastakalov-4286b220a" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="pulkit asri" height="35" width="50" /></a>
-
-  <a href="mailto:nastakalow@gmail.com"><img  alt="Ramazan Nastakalov | Gmail" height="35" width="50" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" />
-
-  <a href="https://www.hackerrank.com/nastakalow?h_r=internal-search&hr_r=1" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="ramazan_nastakalov" height="35" width="50" /></a>
+[<img alt="Ramazan Nastakalov | LinkedIn" width="30px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" />][linkedin]
+<a href="mailto:nastakalow@gmail.com"><img  alt="Ramazan Nastkalov | Gmail" width="30px" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" />
 
 <div>
   
+  [linkedin]: https://az.linkedin.com/in/ramazan-nastakalov-4286b220a
 
 <div align="center">
 
-<br >
+<br > <br > 
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=nastakalow&theme=graywhite&layout=compact&langs_count=3)
 
