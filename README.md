@@ -4,21 +4,18 @@
   , I'm Ramazan (he / him)
 </h1>
 
-<h3 align="center">Front-End Web Developer</h3><br>
+<h3 align="center">
+  Front-End Web Developer
+</h3>
 
-<br>
+<br> <br>
 
-<p align="center">CE graduate and front-end developer focusing on JavaScript. I eagerly to tackle problems and find ways to
-maximize user efficiency. After study with front-end development I ready to apply for coding to a talented
-engineering team to develop quality solutions.
+<p align="center">
+  As a front-end developer, I bring designs to life with clean, efficient code and deliver seamless user experiences.
 </p>
 
-<br>
+<br> <br> <br>
 
 <div align="center">
-
-<br > <br >
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=nastakalow&theme=graywhite&layout=compact&langs_count=3)
-
+  ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=nastakalow&theme=graywhite&layout=compact&langs_count=3)
 <div>
