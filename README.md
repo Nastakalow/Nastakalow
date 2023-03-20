@@ -18,5 +18,5 @@
 <br> <br>
 
 <div align="center">
-  ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=nastakalow&theme=graywhite&layout=compact&langs_count=3)
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nastakalow&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <div>
