@@ -4,17 +4,18 @@
   , I'm Ramazan (he / him)
 </h1>
 
-<h3 align="center">
+<h4 align="center">
   Front-End Web Developer
+</h4>
+
+<br> 
+
+<h3 align="center">
+  As a front-end developer, I bring designs to life with clean, <br>
+  efficient code and deliver seamless user experiences.
 </h3>
 
 <br> <br>
-
-<p align="center">
-  As a front-end developer, I bring designs to life with clean, efficient code and deliver seamless user experiences.
-</p>
-
-<br> <br> <br>
 
 <div align="center">
   ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=nastakalow&theme=graywhite&layout=compact&langs_count=3)
