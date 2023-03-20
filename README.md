@@ -4,9 +4,11 @@
   , I'm Ramazan (he / him)
 </h1>
 
-<h4 align="center">
-  Front-End Web Developer
-</h4>
+<ins>
+  <h4 align="center">
+    Front-End Web Developer
+  </h4>
+</ins>
 
 <br>
 
