@@ -8,7 +8,7 @@
   Front-End Web Developer
 </h4>
 
-<br> 
+<br>
 
 <h3 align="center">
   As a front-end developer, I bring designs to life with clean, <br>
@@ -17,6 +17,8 @@
 
 <br> <br>
 
-<div align="center">
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nastakalow&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<div>
+<center>
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nastakalow&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</center>
