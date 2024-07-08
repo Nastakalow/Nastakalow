@@ -4,17 +4,13 @@
   , I'm Ramazan (he / him)
 </h1>
 
-<ins>
-  <h4 align="center">
-    Web Developer
-  </h4>
-</ins>
-
-<br>
-
 <h3 align="center">
-  Welcome!
+  Fullstack Web Developer
 </h3>
+
+<p align="center">
+  Specializing in creating dynamic and responsive web applications using Node.js and React.js.
+</p>
 
 <br> <br>
 
