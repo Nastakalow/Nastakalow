@@ -6,15 +6,14 @@
 
 <ins>
   <h4 align="center">
-    Front-End Web Developer
+    Web Developer
   </h4>
 </ins>
 
 <br>
 
 <h3 align="center">
-  As a front-end developer, I bring designs to life with clean, <br>
-  efficient code and deliver seamless user experiences.
+  Welcome!
 </h3>
 
 <br> <br>
